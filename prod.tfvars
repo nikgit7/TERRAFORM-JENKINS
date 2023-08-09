@@ -1,0 +1,5 @@
+instance_type = "t3.micro"
+ec2_count = "1"
+ec2_count_fe = "1"
+ec2_count_be = "1"
+ec2_count_ms = "1"

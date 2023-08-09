@@ -1,0 +1,5 @@
+instance_type = "t2.medium"
+ec2_count = "3"
+ec2_count_fe = "2"
+ec2_count_be = "1"
+ec2_count_ms = "1"
